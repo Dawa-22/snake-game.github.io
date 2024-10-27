@@ -1,1 +1,1 @@
-my first javascript project
+Snake game javascript project
